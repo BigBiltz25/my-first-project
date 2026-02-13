@@ -1,11 +1,18 @@
-# My First GitHub Repository
+# Cybersecurity Learning Repository
 
-Hello! I'm learning GitHub and building projects.
+This repository documents my cybersecurity studies, notes, and labs.
 
-## Goals
-- Learn Git & GitHub
-- Build cybersecurity labs
-- Upload scripts & projects
+## Contents
+- Security Concepts
+- Incident Response
+- SOC Analysis
+- Vulnerability Management
 
-## Background
-Recent graduate exploring cybersecurity and IT. 
+## Purpose
+To track my learning progress and showcase practical knowledge.
+
+## Skills Developing
+- Threat analysis
+- Security controls
+- Incident response
+- Network monitoring 
