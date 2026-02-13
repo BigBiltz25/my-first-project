@@ -1,0 +1,7 @@
+This repo will store my learning progress.
+
+  Topics to study:
+- Networking
+- Security+
+- Python
+- SOC Analyst skills
